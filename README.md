@@ -50,3 +50,5 @@ python manage.py runserver
 
 Model RESULT:
 
+![git-te](https://github.com/venkatesh-keshamala/Twitter-Cyberbullying/assets/116023226/0b86dbf1-8f11-4304-8231-94fc90d0ec76)
+
