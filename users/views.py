@@ -14,12 +14,6 @@ from django.conf import settings
 import pandas as pd
 
 
-
-
-
-
-
-
 # Create your views here.
 
 def UserRegisterActions(request):
